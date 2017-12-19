@@ -1,6 +1,7 @@
-pandas==0.20.3
-xgboost
-tensorflow
 keras
+tensorflow
+xgboost
+sklearn
+pandas
 
 
