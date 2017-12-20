@@ -4,5 +4,3 @@ xgboost
 sklearn
 pandas
 seaborn
-pydot
-graphviz
