@@ -4,4 +4,5 @@ xgboost
 sklearn
 pandas
 seaborn
-pydot-ng & brew install graphviz
+pydot
+graphviz
